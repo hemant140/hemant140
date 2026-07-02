@@ -20,4 +20,4 @@ I am a **Software Engineer** with **4+ years of professional experience** specia
 
 ### 📫 Connect with me
 - **Portfolio:** [hemant14.netlify.app](https://hemant14.netlify.app)
-- **LinkedIn:** [Your LinkedIn Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/hemant140/
