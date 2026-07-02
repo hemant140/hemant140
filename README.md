@@ -1,27 +1,23 @@
-# 👋 Hi, I'm Hemant Singh
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-**Software Engineer | 4+ Years Experience** Specializing in building scalable full-stack web applications, robust mobile apps, and optimized backend architectures.
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-### 🛠️ Tech Stack & Tools
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
-* **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS
-* **Backend & DB:** Node.js, Express, MongoDB (Advanced Aggregations), SQL
-* **Mobile:** Flutter, Dart
-* **DevOps & Tools:** Git, GitHub, Docker, Postman, AWS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### 📈 Core Expertise
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-* Scalable System Design & RESTful APIs
-* Database Optimization & Advanced Data Pipelines
-* Cross-Platform Mobile Development
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-### 📫 Connect With Me
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-* 🌐 **Portfolio:** [hemant14.netlify.app](https://hemant14.netlify.app)
-* 💼 **LinkedIn:** [linkedin.com/in/hemant140](https://www.linkedin.com/in/hemant140/)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
